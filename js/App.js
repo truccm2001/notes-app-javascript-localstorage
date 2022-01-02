@@ -1,3 +1,6 @@
+// ~ controller
+// communicate with model and view 
+// define event handler on view => call method on controller => call method on view to update view (written on view)
 import NotesView from "./NotesView.js";
 import NotesAPI from "./NotesAPI.js";
 
